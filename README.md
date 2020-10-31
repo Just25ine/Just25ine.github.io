@@ -35,3 +35,5 @@ Example
 Loops and conditions are tools that are often used for more complex operations, but in and of itself, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
 
 Example
+
+Thank you for taking the time to look through my portfolio! 
