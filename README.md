@@ -10,16 +10,26 @@ As we are all well aware, coding is a cummulative learning process. More complex
 
 To begin, every good data analysis begins with reading in and cleaning the data; here is an example of this skill.
 
+Example
+
 ### Computational Exploratory Data Analysis:
 
 It is very insightful to compute and display summary statistics for data. Displaying such information within a table can allow for easy statistical tests and analysis.
+
+Example
 
 ### Visual Exploratory Data Analysis:
 
 Tables that display summary statistics are great for EDA; however, a visual display, such as a graph, brings more to the table. Graphs can provide an idea of how normal the data is, a visual of the spread of the data and good overview of the most important summary statistics, though this overview would not be as exact at a tables EDA would. Graphs such as boxplots even show outliers of the data. 
 
+Example
+
 ### For and While Loops with If, Elif and Else Conditions:
 
 Loops and conditions are tools that are often used for more complex operations, but in and of itself, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
 
+Example
+
 ### Fifth Example:
+
+Example
