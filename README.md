@@ -24,12 +24,14 @@ Tables that display summary statistics are great for EDA; however, a visual disp
 
 Example
 
-### For and While Loops with If, Elif and Else Conditions:
+### Merging Data Frames:
 
-Loops and conditions are tools that are often used for more complex operations, but in and of itself, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
+It may sometimes be necessary to combine data from different files into one dataframe for analysis. There are many ways to do this and each often results in a different dataframe layout. 
 
 Example
 
-### Fifth Example:
+### For and While Loops with If, Elif and Else Conditions:
+
+Loops and conditions are tools that are often used for more complex operations, but in and of itself, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
 
 Example
