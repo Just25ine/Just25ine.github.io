@@ -10,7 +10,7 @@ As we are all well aware, coding is a cummulative learning process. More complex
 
 To begin, every good data analysis begins with reading in and cleaning the data; here is an example of this skill.
 
-[Example](Reading-and-Cleaning-Data.md)
+[Example](Reading-and-Cleaning-Data-Example.md)
 
 ### Computational Exploratory Data Analysis:
 
@@ -22,7 +22,7 @@ It is very insightful to compute and display summary statistics for data. Displa
 
 Tables that display summary statistics are great for EDA; however, a visual display, such as a graph, brings more to the table. Graphs can provide an idea of how normal the data is, a visual of the spread of the data and good overview of the most important summary statistics, though this overview would not be as exact at a tables EDA would. Graphs such as boxplots even show outliers of the data. 
 
-[Example](Visual-EDA.htm)
+[Example](Visual-EDA-Example.htm)
 
 ### Merging Data Frames:
 
