@@ -16,7 +16,7 @@ To begin, every good data analysis begins with reading in and cleaning the data;
 
 It is very insightful to compute and display summary statistics for data. Displaying such information within a table can allow for easy statistical tests and analysis.
 
-Example
+[Example](Computational-EDA-Example.md)
 
 ### Visual Exploratory Data Analysis:
 
