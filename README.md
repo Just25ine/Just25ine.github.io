@@ -32,8 +32,8 @@ It may sometimes be necessary to combine data from different files into one data
 
 ### For and While Loops with If, Elif and Else Conditions:
 
-Loops and conditions are tools that are often used for more complex operations, but in and of itself, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
+Loops and conditions are tools that are often used for more complex operations, but in and of themselves, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
 
 [Example](For-and-While-Loop-Example.htm)
 
-Thank you for taking the time to look through my portfolio! 
+## Thank you for taking the time to look through my portfolio! Cheers!
