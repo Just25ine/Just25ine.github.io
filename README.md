@@ -28,7 +28,7 @@ Tables that display summary statistics are great for EDA; however, a visual disp
 
 It may sometimes be necessary to combine data from different files into one dataframe for analysis. There are many ways to do this and each often results in a different dataframe layout. 
 
-Example
+[Example](Merging-Dataframes-Example.md)
 
 ### For and While Loops with If, Elif and Else Conditions:
 
