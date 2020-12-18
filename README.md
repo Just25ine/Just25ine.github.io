@@ -10,7 +10,7 @@ As we are all well aware, coding is a cummulative learning process. More complex
 
 To begin, every good data analysis begins with reading in and cleaning the data; here is an example of this skill.
 
-[Example](Reading-and-Cleaning-Data-Example.md)
+[Example](Reading_and_Cleaning_Data_Example.md)
 
 ### Computational Exploratory Data Analysis:
 
