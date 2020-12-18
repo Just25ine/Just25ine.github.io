@@ -36,4 +36,18 @@ Loops and conditions are tools that are often used for more complex operations, 
 
 [Example](For-and-While-Loop-Example.htm)
 
+### Advanced Data Visualization:
+
+As was mentioned above, visual displays of data can be great for viewing different trends in data. There are more advanced ways to visualize data through the use of seaborn and subplots.
+
+### Biomedical Image Analysis:
+
+Biomedical image analysis entails displaying biomedical images, even volumes of images in 3-dimensions. Analysis can be done through upsampling and downsampling the images, displaying intensity histograms to aid in creating masks and equalizing images, and applying filters, masks, erosion, and dilation, as well as observing differences between two images. Some of these analysis methods are displayed in the example below.
+
+### Spike Train Data Visualization:
+
+Spike train data can be visualized through rastor plots, peri-stimulus time histograms and heat maps. These can all be used to determine when neurons are most likely to fire, whether that be under a condition or at a particular time. 
+
+### EEG and ERP Data:
+
 ## Thank you for taking the time to look through my portfolio! Cheers!
