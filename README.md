@@ -68,3 +68,5 @@ I learned how to:
 * Perform statistical tests
 
 ## Thank you for taking the time to look through my portfolio! Cheers!
+
+![](sig.jpg)
