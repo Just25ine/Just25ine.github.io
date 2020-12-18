@@ -16,7 +16,7 @@ To begin, every good data analysis begins with reading in and cleaning the data;
 
 It is very insightful to compute and display summary statistics for data. Displaying such information within a table can allow for easy statistical tests and analysis.
 
-[Example](Computational-EDA-Example.md)
+[Example](Computational-EDA.md)
 
 ### Visual Exploratory Data Analysis:
 
@@ -28,13 +28,13 @@ Tables that display summary statistics are great for EDA; however, a visual disp
 
 It may sometimes be necessary to combine data from different files into one dataframe for analysis. There are many ways to do this and each often results in a different dataframe layout. 
 
-[Example](Merging-Data-frames-Example.md)
+[Example](Merging-Data-Frames.md)
 
 ### For and While Loops with If, Elif and Else Conditions:
 
 Loops and conditions are tools that are often used for more complex operations, but in and of themselves, they are complex and a little more difficult to employ. They can be used to make complex systems, such as in this example.
 
-[Example](For-and-While-Loop-Example.htm)
+[Example](For-and-While-Loop.htm)
 
 ### Advanced Data Visualization:
 
