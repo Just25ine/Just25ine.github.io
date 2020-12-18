@@ -166,7 +166,7 @@ df_full
 
 
 
-As an example of how the multilevel index makes data selection easy, it allows us to take each subject's data from the full dataset and display it as shown below. So, instead of having two different data sets, we have one data set with all the data, which can sectioned to indivdiual data.
+As an example of how the multilevel index makes data selection easy, it allows us to take each subject's data from the full dataset and display it as shown below. So, instead of having two different data sets, we have one data set with all the data, which can be sectioned to indivdiual data.
 
 
 ```python
