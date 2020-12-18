@@ -56,4 +56,15 @@ Spike train data can be visualized through rastor plots, peri-stimulus time hist
 
 ### EEG and ERP Data:
 
+Being able to display and analyze EEG and ERP data is essential when working with neurons. In NESC 3505, we covered this topic relatively briefly in the textbook and more practically in the 2nd project of the course. We also covered MNE-Python. Almost all of the code that we learned regarding this topic was acquired through the 2nd project, and therefore, displaying my proficiency in this topic would overlap a great deal with the examples in the project. This is not feasible, for we are not authorized to use examples from the course material. Additionally, EEG and ERP data is hard to find online (I looked). Therefore, I opted not to make an example covering this material, as an aside, what we learned was relatively basic and heavy on MNE-Python from the MNE API. In conclusion, I decided that it would be best to outline that skills that I learned in this topic briefly here. 
+
+I learned how to:
+* Calculate grand averages
+* Visualize ERP waveforms
+* Visualize topographic maps
+* Calculate difference waves
+* Visualize difference waves
+* Plot mean amplitudes for given time windows
+* Perform statistical tests
+
 ## Thank you for taking the time to look through my portfolio! Cheers!
